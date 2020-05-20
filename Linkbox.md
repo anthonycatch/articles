@@ -25,4 +25,3 @@
 </ul>
 
 <p>Описанные инструменты очень эффективно помогают регулировать процесс построения ссылок. А главное получать стабильный и максимально быстрый эффект от вложенных средств в продвижение.</p>
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/ot0HLWM_oQ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
